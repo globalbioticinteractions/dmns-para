@@ -1,0 +1,7 @@
+{ 
+  "format": "rss",
+  "citation": "Denver Museum of Nature and Science (DMNS) Parasite specimens (DMNS:Para)",
+  "url": "rss.xml",
+  "hasDependencies": true,
+  "shouldResolveReferences": false
+}
