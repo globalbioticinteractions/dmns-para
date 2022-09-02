@@ -3,4 +3,4 @@
 
 Configuration to help GloBI (Global Biotic Interactions, https://globalbioticinteractions.org) index the records in collection of The Denver Museum of Nature and Science (DMNS) (DMNS).
 
-Also see [http://ipt.vertnet.org:8080/ipt/resource?r=dmns_para](http://ipt.vertnet.org:8080/ipt/resource?r=dmns_para) .
+Also see [http://ipt.vertnet.org:8080/ipt/resource?r=dmn](http://ipt.vertnet.org:8080/ipt/resource?r=dmn) .
