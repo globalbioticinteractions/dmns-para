@@ -25,7 +25,7 @@
         <item>
             <!-- this is the main dataset to be indexed -->
             <title>DMNS Parasite collection (Arctos)</title>
-            <link>http://ipt.vertnet.org:8080/ipt/resource?r=dmns_para</link>
+            <link>http://ipt.vertnet.org:8080/ipt/resource?r=dmn</link>
             <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
             <description>Respecting encumbrances.</description>
             <author>larussell@vertnet.org (Laura Russell)</author>
