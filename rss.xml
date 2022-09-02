@@ -29,8 +29,8 @@
             <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
             <description>Respecting encumbrances.</description>
             <author>larussell@vertnet.org (Laura Russell)</author>
-            <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=dmns_para</ipt:eml>
-            <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=dnms_para</ipt:dwca>
+            <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=dmn</ipt:eml>
+            <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=dnm</ipt:dwca>
             <pubDate>Mon, 17 Feb 2020 17:40:30 +0000</pubDate>
             <guid isPermaLink="false">78ff8409-15b9-456f-9793-291b030190a7</guid>
         </item>
